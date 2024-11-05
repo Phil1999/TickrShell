@@ -1,0 +1,9 @@
+[submodule "TickrShell-DataService"]
+	path = TickrShell-DataService
+	url = https://github.com/Phil1999/TickrShell-DataService.git
+[submodule "TickrShell-CLI"]
+	path = TickrShell-CLI
+	url = https://github.com/Phil1999/TickrShell-CLI.git
+[submodule "TickrShell-Common"]
+	path = TickrShell-Common
+	url = https://github.com/Phil1999/TickrShell-Common.git
