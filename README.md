@@ -4,13 +4,17 @@ TickrShell is a stock tracking CLI application designed using a microservices ar
 which work together to provide stock tracking functionality. These services include a CLI interface, a data service for fetching stock information,
 and common components shared between them.
 
+![Screenshot 2024-11-06 113821](https://github.com/user-attachments/assets/22b4eb16-7bcd-4555-8fa7-c7cb8999af18)
+
+
+
 ## Project Structure
 
 This solution is split into three main projects:
 
 - **StockTracker.CLI**: The command-line interface (CLI) for interacting with the stock tracking system. Users can issue commands to query stock prices, subscribe to updates, and display data in tabular or graphical formats.
 - **StockTracker.Common**: This contains shared components used across the application, such as message definitions and database service abstractions.
-- **StockTracker.DataService**: The data service responsible for interacting with external stock APIs and managing stock data retrieval and updates.
+- **StockTracker.DataService**: The service responsible for interacting with external stock APIs and managing stock data retrieval and updates.
 
 ## How to Clone the Project
 
